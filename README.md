@@ -1,7 +1,7 @@
 # TOOLSHOP_AUTOWEB
 
 Proyecto de automatizacion web de la pagina Toolshop, hecho con Serenity BDD + Cucumber usando el patron Screenplay.
-
+- Página consultada para las automatizaciones: https://practicesoftwaretesting.com/
 ## Que se prueba
 
 - Registro de usuario (datos validos y email ya registrado)
