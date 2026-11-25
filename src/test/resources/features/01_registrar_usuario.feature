@@ -7,7 +7,7 @@ Feature: Registrar un nuevo usuario
     Given el usuario está en la página de inicio
     When selecciona el enlace "Iniciar sesión"
     And selecciona el enlace "Registrarse"
-    And completa el formulario con los datos "Carlos", "Albarran", "2005-02-09", "PE", "13801", "123", "Avenida de Prueba", "Pacasmayo", "La Libertad", "987654321", "kalbarran@gmail.com", "Pucca15978@"
+    And completa el formulario con los datos "Carlos", "Albarran", "2005-02-09", "PE", "13801", "123", "Avenida de Prueba", "Pacasmayo", "La Libertad", "987654321", "calbarran@gmail.com", "Pucca15978@"
     And confirma el registro
     Then debería visualizar un mensaje de registro exitoso
 
